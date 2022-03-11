@@ -1,2 +1,2 @@
 # Vintage
-I can cum inside people
+discord.gg/6gsRedQKMm
