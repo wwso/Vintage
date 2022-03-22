@@ -10,6 +10,7 @@
   </p>
   <p>
     <b>Vintage</b> is a simple coded program that helps you change your IDs (Client ID/Device ID) to help you evade bans in Minecraft: Bedrock Edition.
+    <b>Vintage</b> Vintage has been temporarily discontinued
   </p>
 </div>
 
